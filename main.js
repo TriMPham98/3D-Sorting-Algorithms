@@ -4,4 +4,5 @@
 // TODO: Add sound effects for swapping action
 // TODO: Add color coding for each type of block: un-swapped, currently swapping, finished swapped
 // TODO: Link environment file to algorithms file
+// TODO: Add bubble sort
 // TODO: Host website
